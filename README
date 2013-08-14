@@ -1,2 +1,4 @@
 Using google api this html page request current location and
 return local pizza restaurants.(it has been successfully intergrated in asp.net)
+
+-Enable access for browser to track location
